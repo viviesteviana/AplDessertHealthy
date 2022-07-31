@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="profile_pic" type="id" />
+    <item name="bahan" type="id" />
+    <item name="cook" type="id" />
+    <item name="detailTitle" type="id" />
+<!--    <item name="detailDesc" type="id" />-->
+<!--    <item name="detailImg" type="id" />-->
+    <item name="detailPembuatan" type="id" />
+    <item name="profileImg" type="id" />
+    <item name="about_menu" type="id" />
+    <item name="item_title" type="id" />
+    <item name="item_desc" type="id" />
+    <item name="item_img" type="id" />
+</resources>

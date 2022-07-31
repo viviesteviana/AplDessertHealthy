@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AplDessertHealthy</string>
+    <string name="desc">desc</string>
+    <string name="username">username</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+</resources>
